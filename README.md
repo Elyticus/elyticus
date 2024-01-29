@@ -1,5 +1,7 @@
 <h2>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h2>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elyticus&theme=navy-gear" alt="GitHub Streak" /></a>
+
 <h2>Technologies that I use: </h2>
 <div style="display: inline_block">
   <img align="center" alt="Icone-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
