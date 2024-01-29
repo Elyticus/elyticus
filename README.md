@@ -1,4 +1,4 @@
-<center><h2>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h2></center>
+<h2>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h2>
 
 <h2>Technologies that I use: </h2>
 <div style="display: inline_block">
