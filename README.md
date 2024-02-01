@@ -14,6 +14,6 @@
 </div>
 
 <h3>My projects:</h3>
-https://creamy-cup.netlify.app/
-https://calculator-js-app-el.netlify.app/
-https://sharing-thoughts.netlify.app/
+<div><a href="https://creamy-cup.netlify.app/">Coffe Cup</a></div>
+<div><a href="https://calculator-js-app-el.netlify.app/">Calculator App</a></div>
+<div><a href="https://sharing-thoughts.netlify.app/">Feedback App</a></div>
