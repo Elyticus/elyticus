@@ -16,7 +16,7 @@
 <br>
 <ul>
     <li>🌱 I’m currently learning React</li>
-    <li>💬 Ask me about HTML, CSS, JavaScript</li>
+    <li>💬 Ask me about HTML, CSS and JavaScript</li>
     <li>📫 How to reach me: pirvulescu.catalin0409@gmail.com</li>
 </ul>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyticus&show_icons=true&locale=en&layout=compact" alt="elyticus"/></p>
