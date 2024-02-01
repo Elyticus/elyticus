@@ -1,4 +1,4 @@
-<h2>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h2>
+<h1>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h1>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elyticus&theme=navy-gear" alt="GitHub Streak" /></a>
 
@@ -12,3 +12,6 @@
   <img align="center" alt="Icone-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Icone-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 </div>
+
+<h3>My projects:</h3>
+https://creamy-cup.netlify.app/
