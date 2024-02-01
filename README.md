@@ -15,3 +15,5 @@
 
 <h3>My projects:</h3>
 https://creamy-cup.netlify.app/
+https://calculator-js-app-el.netlify.app/
+https://sharing-thoughts.netlify.app/
