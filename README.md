@@ -15,6 +15,6 @@
 
 <h3>My projects:</h3>
 <div><a target="_blank" href="https://catalin-pirvulescu-portfolio.netlify.app/">Portfolio</a> - Under construction 👷 </div> 
-<div><a target="_blank" href="https://creamy-cup.netlify.app/">Coffe Cup</a></div>
+<div><a target="_blank" href="https://creamy-cup.netlify.app/">Coffee Cup</a></div>
 <div><a target="_blank" href="https://calculator-js-app-el.netlify.app/">Calculator App</a></div>
 <div><a target="_blank" href="https://sharing-thoughts.netlify.app/">Feedback App</a></div>
