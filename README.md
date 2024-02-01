@@ -1,7 +1,6 @@
 <h1>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h1>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elyticus&theme=navy-gear" alt="GitHub Streak" /></a>
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zk3oz3gds31ihjtyfut2bc46vpi0hbbw3zfg7it4&ep=v1_gifs_search&rid=giphy.gif" />
 
 <h2>Technologies that I use: </h2>
 <div style="display: inline_block">
