@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1>Hi! I'm Catain and I'm a Front-end Developer! 💻 </h1>
+<h1>Hi! I'm Catalin and I'm a Front-end Developer! 💻 </h1>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elyticus&theme=navy-gear" alt="GitHub Streak" /></a>
 
