@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyticus&show_icons=true&locale=en&layout=compact" alt="elyticus"/></p>
 <br/><br/><br/><br/><br/><br/>
 <h3>My projects:</h3>
-<div><a target="_blank" href="https://catalin-pirvulescu-portfolio.netlify.app/">Portfolio</a> - Under construction 👷 </div> 
+<div><a target="_blank" href="https://catalin-pirvulescu-portfolio.netlify.app/">Portfolio</a></div> 
 <div><a target="_blank" href="https://creamy-cup.netlify.app/">Coffee Cup</a></div>
 <div><a target="_blank" href="https://password-generator-scrimba-m3.netlify.app/">Password Generator</a></div>
 <div><a target="_blank" href="https://sharing-thoughts.netlify.app/">Feedback App</a></div>
