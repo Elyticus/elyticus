@@ -26,4 +26,4 @@
 <div><a target="_blank" href="https://creamy-cup.netlify.app/">Coffee Cup - Website</a></div>
 <div><a target="_blank" href="https://password-generator-scrimba-m3.netlify.app/">Password Generator - App</a></div>
 <div><a target="_blank" href="https://catalin-pirvulescu-portfolio.netlify.app/">Portfolio - Website</a></div> 
-<div><a target="_blank" href="https://advice-generator-app-fendm.netlify.app/">Quote Generator - App</a></div>
+<div><a target="_blank" href="https://advice-generator-app-fendm.netlify.app/">Quote Generator - App</a></div> 
