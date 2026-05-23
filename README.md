@@ -20,7 +20,8 @@
     <li>💬 Ask me about HTML, CSS and JavaScript</li>
     <li>📫 How to reach me: pirvulescu.catalin0409@gmail.com</li>
 </ul>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyticus&show_icons=true&locale=en&layout=compact" alt="elyticus"/></p>
+
+//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyticus&show_icons=true&locale=en&layout=compact" alt="elyticus"/></p>
 <br/><br/><br/><br/><br/><br/>
 <h3>My projects:</h3> 
 <div><a target="_blank" href="https://creamy-cup.netlify.app/">Coffee Cup - Website</a></div>
